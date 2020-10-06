@@ -1,0 +1,39 @@
+{
+  "bucky": {
+    "name": "BUCKY",
+    "img_url": "https://1.bp.blogspot.com/-rhX7JKXwYww/X3BF8pqPIhI/AAAAAAAAD5I/BxEKt4YJGmEegYDGeV7s70qba95ilibAACLcBGAsYHQ/s16000/Bucky.webp",
+    "type": "Shotgun",
+    "creeds": "900",
+    "magazine": "5",
+    "wall_penetration": "Low",
+    "primary_fire_mode": "Semi-Automatic",
+    "primary_fire_rate": "1.1 Rounds/sec",
+    "alternative_fire_mode": "Semi-Automatic",
+    "alternative_fire_rate": "1.1Rounds/sec",
+    "range": ["0-8m", "8-12m", "12-50m"],
+    "damage": [
+      "44", "22", "19",
+        "34", "17", "14",
+        "18", "9", "8"
+
+    ]
+  },
+  "judge": {
+    "name": "JUDGE",
+    "img_url": "https://1.bp.blogspot.com/-k4yR2lZlVs8/X3BF8vRh__I/AAAAAAAAD5E/H7xoDA3NSj4gD4gvMcgrl9rcWuzEhGl2gCLcBGAsYHQ/s16000/Judge.webp",
+    "type": "Shotgun",
+    "creeds": "1500",
+    "magazine": "7",
+    "wall_penetration": "Medium",
+    "primary_fire_mode": "Full-Automatic",
+    "primary_fire_rate": "35. Rounds/sec",
+    "alternative_fire_mode": "Semi-Automatic",
+    "alternative_fire_rate": "1.1Rounds/sec",
+    "range": ["0-8m", "8-12m", "12-50m"],
+    "damage": [
+      "34", "17", "14",
+      "26", "13", "11",
+      "20", "10", "9"
+    ]
+  }
+}

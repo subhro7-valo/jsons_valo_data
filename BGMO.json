@@ -1,0 +1,66 @@
+{
+  "bulldog": {
+    "name": "BULLDOG",
+    "img_url": "https://1.bp.blogspot.com/-EilX5sV_hO8/X3A2W8UJo5I/AAAAAAAAD4M/2Bfh7I7VMVcNssIR8C2N6UxzK1RhtsZZgCLcBGAsYHQ/s16000/Bulldog.webp",
+    "type": "Assult Rifle",
+    "creeds": "2100",
+    "magazine": "24",
+    "wall_penetration": "Medium",
+    "primary_fire_mode": "Full-Automatic",
+    "primary_fire_rate": "9.15 Rounds/sec",
+    "alternative_fire_zoom": "1.25x,3Round burst",
+    "alternative_fire_rate": "4 Rounds/sec",
+    "range": "0-50",
+    "damage": [
+      "78", "35", "22"
+    ]
+  },
+  "guardian": {
+    "name": "GUARDIAN",
+    "img_url": "https://1.bp.blogspot.com/-hn0dRr7PUgw/X3A2WrDlz6I/AAAAAAAAD4E/XO8SPeh21PwbrwOolhtQ_l6P4pAsSWVAACLcBGAsYHQ/s16000/Guardian.webp",
+    "type": "DMR",
+    "creeds": "2400",
+    "magazine": "12",
+    "wall_penetration": "High",
+    "primary_fire_mode": "Semi-Automatic",
+    "primary_fire_rate": "5.75 Rounds/sec",
+    "alternative_fire_zoom": "1.5x,spread reduction",
+    "alternative_fire_rate": "6.5 Rounds/sec",
+    "range": "0-50",
+    "damage": [
+      "195", "65", "49"
+    ]
+  },
+  "marshal": {
+    "name": "MARSHAL",
+    "img_url": "https://1.bp.blogspot.com/-9QUr0exQZNw/X3A2WlFn5XI/AAAAAAAAD4I/euQKHQz6L_gJBP9U-UvpQAUCLNtdCBw8ACLcBGAsYHQ/s16000/Marshal.webp",
+    "type": "Sniper",
+    "creeds": "1100",
+    "magazine": "5",
+    "wall_penetration": "Medium",
+    "primary_fire_mode": "Semi-Automatic",
+    "primary_fire_rate": "1.5 Rounds/sec",
+    "alternative_fire_zoom": "2.5x",
+    "alternative_fire_rate": "1.2 Rounds/sec",
+    "range": "0-50",
+    "damage": [
+      "202", "101", "85"
+    ]
+  },
+  "operator": {
+    "name": "OPERATOR",
+    "img_url": "https://1.bp.blogspot.com/-KnEJPC6VNUs/X3A2YZlzh9I/AAAAAAAAD4Q/AmuY_PblKpUEVQCVzIxPH7K4QRiLztROwCLcBGAsYHQ/s16000/Operator.webp",
+    "type": "Sniper",
+    "creeds": "5000",
+    "magazine": "5",
+    "wall_penetration": "High",
+    "primary_fire_mode": "Semi-Automatic",
+    "primary_fire_rate": "0.75 Rounds/sec",
+    "alternative_fire_zoom": "1.25 & 5x",
+    "alternative_fire_rate": "0.75 Rounds/sec",
+    "range": "0-50",
+    "damage": [
+      "255", "150", "127"
+    ]
+  }
+}

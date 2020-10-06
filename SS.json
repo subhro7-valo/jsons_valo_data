@@ -1,0 +1,38 @@
+{
+  "stinger": {
+    "name": "STINGER",
+    "img_url": "https://1.bp.blogspot.com/-L4oZnUL7JpU/X3BKXlju0ZI/AAAAAAAAD5c/OBvr1YyS3sMSDmsl9Z_PrZ0BeniynNPJQCLcBGAsYHQ/s16000/Stinger.webp",
+    "type": "SMG",
+    "creeds": "1000",
+    "magazine": "12",
+    "wall_penetration": "Low",
+    "primary_fire_mode": "Full-Automatic",
+    "primary_fire_rate": "18 Rounds/sec",
+    "alternative_fire_zoom": "1.15x,4 rounnd burst",
+    "alternative_fire_rate": "4 Rounds/sec",
+    "range": ["0-20m", "20-50m"],
+    "damage": [
+      "67", "27", "23",
+      "62", "25", "21"
+
+    ]
+  },
+  "spectre": {
+    "name": "SPECTRE",
+    "img_url": "https://1.bp.blogspot.com/-MIBXin9l1mk/X3BKXRl28aI/AAAAAAAAD5Y/5fSIo-QH-xMJtkJ5pGijGNijDHUJNGv6ACLcBGAsYHQ/s16000/Spectre.webp",
+    "type": "SMG",
+    "creeds": "1600",
+    "magazine": "30",
+    "wall_penetration": "Medium",
+    "primary_fire_mode": "Full-Automatic",
+    "primary_fire_rate": "13.33 Rounds/sec",
+    "alternative_fire_zoom": "1.15x",
+    "alternative_fire_rate": "12 Rounds/sec",
+    "range": ["0-20m", "20-50m"],
+    "damage": [
+      "78", "26", "22",
+      "66", "22", "18"
+
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "classic": {
+    "name": "CLASSIC",
+    "img_url": "https://1.bp.blogspot.com/-5vGO1oKA-U4/X3Ayt5eUVXI/AAAAAAAAD3o/eP2f99GmT5s0-tlqut3B7wlqVri8GAp_QCLcBGAsYHQ/s16000/Classic.jpg",
+    "type": "Sidearm",
+    "creeds": "Free",
+    "magazine": "12",
+    "wall_penetration": "Low",
+    "primary_fire_mode": "Semi-Automatic",
+    "primary_fire_rate": "6.75 Rounds/sec",
+    "alternative_fire_mode": "3-Round Burst",
+    "alternative_fire_rate": "2.22 Rounds/sec",
+    "range": ["0-30m", "30-50m"],
+    "damage": [
+      "78", "26", "22",
+      "66", "22", "18"
+
+    ]
+  },
+  "ghost": {
+    "name": "GHOST",
+    "img_url": "https://1.bp.blogspot.com/-RAdhoyrSQ_0/X3Ayt_j6_xI/AAAAAAAAD3s/issbmeGnIo8TCQ7GwzlIdcjNFw8DPB7HgCLcBGAsYHQ/s16000/Ghost.webp",
+    "type": "Sidearm",
+    "creeds": "500",
+    "magazine": "15",
+    "wall_penetration": "Medium",
+    "primary_fire_mode": "Semi-Automatic",
+    "primary_fire_rate": "6.75 Rounds/sec",
+    "alternative_fire_mode": "-",
+    "alternative_fire_rate": "-",
+    "range": ["0-30m", "30-50m"],
+    "damage": [
+      "105", "30", "26",
+      "88", "25", "21"
+
+    ]
+  },
+  "sheriff": {
+    "name": "SHERIFF",
+    "img_url": "https://1.bp.blogspot.com/-9cfjbqi6M3M/X3Ayt__u_dI/AAAAAAAAD3w/o_omtKu0EiINZEjxqiDxj6u3SQxrzAswwCLcBGAsYHQ/s16000/Sheriff.webp",
+    "type": "Sidearm",
+    "creeds": "800",
+    "magazine": "6",
+    "wall_penetration": "High",
+    "primary_fire_mode": "Semi-Automatic",
+    "primary_fire_rate": "4 Rounds/sec",
+    "alternative_fire_mode": "-",
+    "alternative_fire_rate": "-",
+    "range": ["0-30m", "30-50m"],
+    "damage": [
+
+        "160", "55", "47",
+        "145", "50", "43"
+
+    ]
+  }
+}

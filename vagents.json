@@ -1,0 +1,517 @@
+{
+  "JETT": {
+    "name": "JETT",
+    "img_url":"https://1.bp.blogspot.com/-UqbOkkF8uL4/X22JUivAdxI/AAAAAAAADwY/gyQGW8QgGBoF4XWTRvjaUCOuopVIBm5IgCLcBGAsYHQ/s16000/jett_big.png",
+    "origin": "South Korea",
+    "role": "Duelist",
+    "first_power": "CLOUDBURST",
+    "first_power_img": "https://1.bp.blogspot.com/-BopQdp_IR3U/X23R3WgYrfI/AAAAAAAADx4/rUPoWruCwxAUQQZ4XsPXAtbNCT_xBf6swCLcBGAsYHQ/s16000/cloud_burst.png",
+    "first_power_details": [
+      "Basic",
+      "100",
+      "7sec",
+      "N/A",
+      "Instantly throw a projectile that expands into a brief vision cloud on impact with a surface. Hold the ability key to curve the cloud in the direction of your crosshair."
+    ],
+    "second_power": "UPDRAFT",
+    "second_power_img": "https://1.bp.blogspot.com/-OdJL5Ys-QYg/X23R4J-iFTI/AAAAAAAADx8/2s9CJtm6RjoNPLFraOk3QaDrDGFOA3WjACLcBGAsYHQ/s16000/updraft.png",
+    "second_power_details": [
+      "Basic",
+      "100",
+      "N/A",
+      "N/A",
+      "Instantly  Jett pused up herself high into the air."
+    ],
+    "third_power": "TAILWIND",
+    "third_power_img": "https://1.bp.blogspot.com/-tsyklkN2hoU/X23R3RoEU4I/AAAAAAAADx0/HdCtcNZfZNU3KlCAgNqVfkosKYao4K-rACLcBGAsYHQ/s16000/tailwind.png",
+    "third_power_details": [
+      "Signeture",
+      "Free",
+      "N/A",
+      "N/A",
+      "Instantly propel in the direction she is moving. If Jett is standing still, she will propel forward."
+    ],
+    "fourth_power": "BLADE STROOM",
+    "fourth_power_img": "https://1.bp.blogspot.com/-7e78EGOVCqc/X23R3b2kLFI/AAAAAAAADxw/9ycPWgNSulo0391C03vjn7LQ5yADYsedQCLcBGAsYHQ/s16000/bladestrom.png",
+    "fourth_power_details": [
+      "Ultimate",
+      "6 Points",
+      "N/A",
+      "N/A",
+      "Equip a set of 5 highly accurate throwing knives. Fire to throw a single knife. Alternative Fire to throw all remaining daggers at once. Restocks upon killing an enemy."
+    ]
+  },
+
+  "BREACH": {
+    "name": "BREACH",
+    "img_url": "https://1.bp.blogspot.com/-98VGb_fj3jg/X22DJr1pzYI/AAAAAAAADwM/PrsDRG5IQRIpxb6_F6fVCE0EevqZhbWhgCLcBGAsYHQ/s16000/breach_big.png",
+    "origin": "Sweden",
+    "role": "Initiator",
+    "first_power": "AFTERSHOCK",
+    "first_power_img": "https://1.bp.blogspot.com/-zX9jVrCccuA/X23TLV7RiDI/AAAAAAAADyY/F2i2L7ODA2kd92XFgGOXB2eZHrlYJ4asgCLcBGAsYHQ/s0/aftershock.png",
+    "first_power_details": [
+      "Basic",
+      "100",
+      "N/A",
+      "N/A",
+      "Equip a fusion charge. Fire the charge to set a slow-acting burst through the wall. The burst does heavy damage to anyone caught in its area."
+    ],
+    "second_power": "FLASHPOINT",
+    "second_power_img": "https://1.bp.blogspot.com/-8D87FsRjT-Q/X23TLdKQ2UI/AAAAAAAADyQ/TZ_j4I3ScmgToC7-G5b5TGLyr8d_aijEACLcBGAsYHQ/s0/flashpoint.png",
+    "second_power_details": [
+      "Basic",
+      "200",
+      "N/A",
+      "N/A",
+      "Equip a blinding charge. Fire the charge to set a fast-acting burst through the wall. The charge detonates to blind all players looking at it."
+    ],
+    "third_power": "FAULTLIINE",
+    "third_power_img": "https://1.bp.blogspot.com/-3piBqLatpwY/X23TLTgoVII/AAAAAAAADyU/C_cPzbREavkRnpwZQsAPOKvCwCH4j6k7gCLcBGAsYHQ/s0/faultline.png",
+    "third_power_details": [
+      "Signeture",
+      "Free",
+      "N/A",
+      "N/A",
+      "Equip a seismic blast. Hold Fire to increase the distance. Release to set off the quake, dazing all players in its zone and in a line up to the zone."
+    ],
+    "fourth_power": "ROLLING THUNDER",
+    "fourth_power_img": "https://1.bp.blogspot.com/-IvRc9j3yBTs/X23TMIN7V6I/AAAAAAAADyc/hqftLNjXOpUIEnlOMoobd6O52OQn2TBhACLcBGAsYHQ/s16000/rollingthunder.png",
+    "fourth_power_details": [
+      "Ultimate",
+      "7 Points",
+      "N/A",
+      "N/A",
+      "Equip a seismic charge. Fire to send a cascading quake through all terrain in a large cone. The quake dazes and knocks up anyone caught in it."
+    ]
+  },
+
+  "BRIME": {
+    "name": "BRIMESTONE",
+    "img_url" : "https://1.bp.blogspot.com/-tisueUGn5Ik/X22LTyiZbaI/AAAAAAAADwk/O19Mf6PxeB8wgfxDex0ioRTqgtibmKZ0wCLcBGAsYHQ/s16000/brimestone_big.png",
+    "origin": "United States",
+    "role": "Controller",
+    "first_power": "INCENDIARY",
+    "first_power_img": "https://1.bp.blogspot.com/-F7KXjc0fs5U/X23Ye9Mxl2I/AAAAAAAADy0/2n4QRrRr0lUBeV0epfzV8XNQcLshGerEQCLcBGAsYHQ/s0/moly.png",
+    "first_power_details": [
+      "Basic",
+      "300",
+      "8.3 Sec",
+      "N/A",
+      "Equip an Incendiary grenade launcher. Fire to launch a grenade that detonates as it comes to a rest on the floor, creating a lingering fire zone that damages players."
+    ],
+    "second_power": "STIM BEACON",
+    "second_power_img": "https://1.bp.blogspot.com/-D-FXf4OAON0/X23YfaOm35I/AAAAAAAADy8/ZcpVbBIjT4AMq0Bx_1TX6vXQfflT-DIZACLcBGAsYHQ/s0/steambecon.png",
+    "second_power_details": [
+      "Basic",
+      "100",
+      "12 sec",
+      "N/A",
+      "Equip a Stim Beacon. Fire to toss the stim beacon in front of Brimstone. Upon landing, the stim beacon will create a field that grants players RapidFire."
+    ],
+    "third_power": "SKY SMOKE",
+    "third_power_img": "https://1.bp.blogspot.com/-iKTaQcPe6jo/X23Ye97EcJI/AAAAAAAADy4/SWIM5ARMvvE8cCfqZQlapEamfYWZ9jD3gCLcBGAsYHQ/s0/brimesmoke.png",
+    "third_power_details": [
+      "Signeture",
+      "100",
+      "14 sec",
+      "N/A",
+      "Equip a tactical map. Fire to set locations where Brimstone's smoke clouds will land. Alternate Fire to confirm, launching long-lasting smoke clouds that block vision in the selected area."
+    ],
+    "fourth_power": "ORBITAL STRIKE",
+    "fourth_power_img": "https://1.bp.blogspot.com/-YjqLHbdHAMo/X23YejaCAzI/AAAAAAAADyw/5Eu0e1e-5pkFMyMrUx-1NkICt8pnhcjkQCLcBGAsYHQ/s0/openthesky.png",
+    "fourth_power_details": [
+      "Ultimate",
+      "7 Points",
+      "4 sec",
+      "N/A",
+      "Equip a tactical map. Fire to launch a lingering orbital strike laser at the selected location, which deals heavy damage over-time to players in the area."
+    ]
+  },
+
+  "OMEN": {
+    "name": "OMEN",
+    "img_url" : "https://1.bp.blogspot.com/-j6zCxUV3z6U/X22SD3T99-I/AAAAAAAADww/B-DjBLbBRkI5dbN5FF_Cx2vvWqxH-fi9QCLcBGAsYHQ/s16000/omen_big.png",
+    "origin": "Unknown",
+    "role": "Controller",
+    "first_power": "SHROUD STEP",
+    "first_power_img": "https://1.bp.blogspot.com/-Ubwy9eyak_k/X23Zka3DCbI/AAAAAAAADzY/L834Al5_xjMVfBXw4IA7wFltuQhKSGGjgCLcBGAsYHQ/s0/shroudedstep.png",
+    "first_power_details": [
+      "Basic",
+      "100",
+      "7 Sec",
+      "N/A",
+      "Equip a shadow walk ability and see its range indicator. Fire to begin a brief channel, then teleport to the marked location. Enemies can hear a sound cue at your original location."
+    ],
+    "second_power": "PARANOIA",
+    "second_power_img": "https://1.bp.blogspot.com/-3CvMqxmMPTs/X23Zj5Q5z1I/AAAAAAAADzM/6yGvjPirJEMSqrb-l-n5RIjaKO1FHzWzwCLcBGAsYHQ/s0/paranoia.png",
+    "second_power_details": [
+      "Basic",
+      "200",
+      "N/A",
+      "N/A",
+      "Instantly fire a shadow projectile forward, briefly reducing the vision range of all players it touches. This projectile can pass through walls."
+    ],
+    "third_power": "DARK COVER",
+    "third_power_img": "https://1.bp.blogspot.com/-2FJRqoiG19A/X23ZjzridWI/AAAAAAAADzU/R9a9HZfSy9IIOyJDqHheQaKLz0N7WhfyACLcBGAsYHQ/s0/darkcover.png",
+    "third_power_details": [
+      "Signeture",
+      "FREE",
+      "15 sec",
+      "N/A",
+      "Equip a shadow orb and see its range indicator. Fire to throw the shadow orb to the marked location, creating a long-lasting shadow sphere that blocks vision. Hold Alternate Fire while targeting to move the marker further away. Hold the ability key with targeting to move the market closer."
+    ],
+    "fourth_power": "FROM THE SHADOWS",
+    "fourth_power_img": "https://1.bp.blogspot.com/-B5odLtfFbiQ/X23Zj72WujI/AAAAAAAADzQ/6H2DERUJCxAfazlwIKsS1dmFzWdK-hOkwCLcBGAsYHQ/s0/frontheshadows.png",
+    "fourth_power_details": [
+      "Ultimate",
+      "7 Points",
+      "N/A",
+      "N/A",
+      "Equip a tactical map. Fire to begin teleporting to the selected location. While teleporting, Omen will appear as a Shade that can be destroyed by an enemy to cancel his teleport."
+    ]
+  },
+
+  "PHNX": {
+    "name": "PHOENIX",
+    "img_url" : "https://1.bp.blogspot.com/-ShaD96nj9NQ/X22UJ7hOcYI/AAAAAAAADw8/79ycm1-2dA8YgJHaoZ3DDJZ7BXSq9cUNgCLcBGAsYHQ/s16000/phnx_big.png",
+    "origin": "United Kingdom",
+    "role": "Duelist",
+    "first_power": "BLAZE",
+    "first_power_img": "https://1.bp.blogspot.com/-k_bVnYzArBw/X23aXL9mnJI/AAAAAAAADzo/UB77w1_4nCMIidjqxDeYffvZkLUGboCDQCLcBGAsYHQ/s0/firewall.png",
+    "first_power_details": [
+      "Basic",
+      "200",
+      "8 Sec",
+      "6.25 hp/s",
+      "Equip a flame wall. Fire to create a line of flames that moves forward creating a wall that blocks vision and damages players passing through it. Hold Fire to bend the wall in the direction of your crosshair."
+    ],
+    "second_power": "CURVEBALL",
+    "second_power_img": "https://1.bp.blogspot.com/-TsKlbaYNfFw/X23aXYogC7I/AAAAAAAADzs/k5_bAPGi4XsX3Lbq0tX24evxNvhlrcydwCLcBGAsYHQ/s0/cuevball.png",
+    "second_power_details": [
+      "Basic",
+      "200",
+      "1.1 sec",
+      "N/A",
+      "Equip a flare orb that takes a curving path and detonates shortly after throwing, impairing vision. Fire to curve the flare orb to the left, detonating and blinding any player who sees the orb. Alternate fire to curve the flare orb to the right."
+    ],
+    "third_power": "HOT HANDS",
+    "third_power_img": "https://1.bp.blogspot.com/-etgfCCdI4qM/X23aXR_z7kI/AAAAAAAADzw/pB2L8pRhH60khwzgs-z49Q5O_fsr83UZwCLcBGAsYHQ/s0/phnx_moly.png",
+    "third_power_details": [
+      "Signeture",
+      "FREE",
+      "4 sec",
+      "N/A",
+      "Equip a fireball. Fire to throw a fireball that explodes after a set amount of time or upon hitting the ground, creating a lingering fire zone that damages enemies."
+    ],
+    "fourth_power": "RUN IT BACK",
+    "fourth_power_img": "https://1.bp.blogspot.com/-5w97sDOA8cA/X23aX8da1fI/AAAAAAAADz0/oxO7BbN_ZhwObuSz3PakRREP0fH1-hfGACLcBGAsYHQ/s0/runitback.png",
+    "fourth_power_details": [
+      "Ultimate",
+      "6 Points",
+      "10 sec",
+      "Full Restored",
+      "Instantly place a marker at Phoenix's location. When this ability is active, if you die or if the time expires, the ability ends and sends Phoenix back to the starting location."
+    ]
+  },
+
+  "SAGE": {
+    "name": "SAGE",
+    "img_url" : "https://1.bp.blogspot.com/-9V4bKQX8vp8/X22USZxUsVI/AAAAAAAADxQ/7MLPhlhVH4I_cpLpg3Hq4tZ2BJj-UNvBQCLcBGAsYHQ/s16000/sage_big.png",
+    "origin": "China",
+    "role": "Sentinel",
+    "first_power": "BARRIER ORB",
+    "first_power_img": "https://1.bp.blogspot.com/-U1WRaBLkVaE/X23bANbYFcI/AAAAAAAAD0Q/EBbe88RK1a8tPtz4XkDQ37_jFheuriA3ACLcBGAsYHQ/s0/wall.png",
+    "first_power_details": [
+      "Basic",
+      "400",
+      "30 Sec",
+      "800",
+      "Equip a barrier orb. Fire places a solid wall. Alternate fire rotates the targeter."
+    ],
+    "second_power": "SLOW ORB",
+    "second_power_img": "https://1.bp.blogspot.com/-2FKBG6hmMNk/X23a_aWX94I/AAAAAAAAD0I/ZLqt9APBhmIP3cZ_MB5gfVB4Lat8AWvCgCLcBGAsYHQ/s0/sloworb.png",
+    "second_power_details": [
+      "Basic",
+      "100",
+      "7 sec",
+      "N/A",
+      "Equip a Slowing Orb. Fire to launch the Orb, which expands upon hitting the ground, creating a zone that slows players who walk on it."
+    ],
+    "third_power": "HEALING ORB",
+    "third_power_img": "https://1.bp.blogspot.com/-6pyr0blGF-k/X23a_T3danI/AAAAAAAAD0M/6b11vh6rBuoC8YQg7_g2iSUmIZjsyBwHACLcBGAsYHQ/s0/heal.png",
+    "third_power_details": [
+      "Signeture",
+      "FREE",
+      "10 sec",
+      "N/A",
+      "Equip a healing orb. Fire with your crosshairs over a damaged ally to activate a heal-over-time on them. Alternate fire while Sage is damaged to activate a self heal-over-time. The heal will stop upon taking damage."
+    ],
+    "fourth_power": "RESURRECTION",
+    "fourth_power_img": "https://1.bp.blogspot.com/-wZw0-htLyS0/X23a_SyZp-I/AAAAAAAAD0E/BFkhyOi6DjIgrrnzUnrLU0YNO4HAQST8gCLcBGAsYHQ/s0/ressucsion.png",
+    "fourth_power_details": [
+      "Ultimate",
+      "7 Points",
+      "N/A",
+      "N/A",
+      "Equip a resurrection ability. Fire with your crosshairs placed over an ally's corpse to begin resurrecting them. After a brief channel, the ally will be brought back to life with full health."
+    ]
+  },
+
+  "VIPER": {
+  "name": "VIPER",
+  "img_url" : "https://1.bp.blogspot.com/-o0uu47Eckbk/X22USgsETSI/AAAAAAAADxY/I7FC6XBA4m8MdnNAFyMsAKMFIR5WTbdPgCLcBGAsYHQ/s16000/viper_big.png",
+  "origin": "United States",
+  "role": "Controller",
+  "first_power": "SNAKE BITE",
+  "first_power_img": "https://1.bp.blogspot.com/-sErQH4-uTvc/X23bgtWh1HI/AAAAAAAAD0o/pKia9MLnCT4_PPEiADdGT_9aswoyMpI8wCLcBGAsYHQ/s0/snakebite.png",
+  "first_power_details": [
+    "Basic",
+    "100",
+    "8 Sec",
+    "N/A",
+    "Equip a chemical launcher. Fire to launch a canister that shatters upon hitting the floor, creating a lingering chemical zone that damages enemies (24 dps) and applies Vulnerable, doubling incoming damage."
+  ],
+  "second_power": "POISON CLOUD",
+  "second_power_img": "https://1.bp.blogspot.com/-ZNUkhCvReNo/X23bgRGVKBI/AAAAAAAAD0k/atXWnxUdtEgWG3Yo0uw-KZSY8GTbBxtvwCLcBGAsYHQ/s0/viperorb.png",
+  "second_power_details": [
+    "Basic",
+    "200",
+    "5 poison points/sec",
+    "N/A",
+    "Equip a gas emitter. Fire to throw the emitter that perpetually remains throughout the round. Re-use the ability to create a toxic gas cloud at the cost of fuel. This ability can be re-used more than once and can be picked up to be redeployed. "
+  ],
+  "third_power": "TOXIC SCREEN",
+  "third_power_img": "https://1.bp.blogspot.com/-WuhVZD6yj0E/X23bhGLzuQI/AAAAAAAAD0w/k0a2H8q2nZA8yCtgVmj8HDgtNisG1ZoSwCLcBGAsYHQ/s0/viperwall.png",
+  "third_power_details": [
+    "Signeture",
+    "FREE",
+    "5 poison points/sec",
+    "N/A",
+    "Equip a gas emitter launcher. Fire to deploy a long line of gas emitters. Re-use the ability to create a tall wall of toxic gas at the cost of fuel. This ability can be re-used more than once. "
+  ],
+  "fourth_power": "VIPER'S PIT",
+  "fourth_power_img": "https://1.bp.blogspot.com/-gvAdbNLPpuU/X23bgtg8nXI/AAAAAAAAD0s/tx9gdmQGQpU_d0mCsw9FH9PGkC7iciyhgCLcBGAsYHQ/s0/vipertspit.png",
+  "fourth_power_details": [
+    "Ultimate",
+    "7 Points",
+    "Infinite",
+    "N/A",
+    "Equip a chemical sprayer. Fire to spray a chemical cloud in all directions around Viper, creating a large cloud that reduces the vision range of players and maximum health of enemies inside of it. Hold the ability key to disperse the cloud early. Lasts forever if Viper returns to refuel it every 15 seconds, or remains inside."
+  ]
+},
+
+  "RAZE": {
+    "name": "RAZE",
+    "img_url" : "https://1.bp.blogspot.com/-xbs6rKhdroc/X22URX5417I/AAAAAAAADxI/HS9H6OBwUWgQQSZx8ZGGeo_O0GaYam5owCLcBGAsYHQ/s16000/raze_big.png",
+    "origin": "Brazil",
+    "role": "Duelist",
+    "first_power": "BOOM BOT",
+    "first_power_img": "https://1.bp.blogspot.com/-l1vv19apsBM/X23b6uv-mEI/AAAAAAAAD1I/UMtndaUhjEk2bXBVvkxMvUneFmZwxKrjgCLcBGAsYHQ/s320/boombot.png",
+    "first_power_details": [
+      "Basic",
+      "200",
+      "N/A",
+      "N/A",
+      " Equip a Boom Bot. Fire to deploy the bot, causing it to travel in a straight line on the ground, bouncing off walls. The Boom Bot will lock on to any enemies in its frontal cone and chase them, exploding for heavy damage if it reaches them. The Boom Bot can be destroyed by enemies."
+    ],
+    "second_power": "BLAST PACK",
+    "second_power_img": "https://1.bp.blogspot.com/-Zl-LwcGFjk0/X23b6kIMQkI/AAAAAAAAD1M/E9yn4OT8HUoKQm7t2b3jtRWZ3z0dDsrbACLcBGAsYHQ/s0/blastpack.png",
+    "second_power_details": [
+      "Basic",
+      "200",
+      "N/A",
+      "N/A",
+      "Instantly throw a Blast Pack that will stick to surfaces. Re-use to detonate, damaging and knocking back anything hit. Blast Pack will not damage Raze, but she can still suffer fall damage."
+    ],
+    "third_power": "PAINT SHELLS",
+    "third_power_img": "https://1.bp.blogspot.com/-G2GDgfgr6R4/X23b6uC08wI/AAAAAAAAD1E/hVsXO12Jd6QodyE5fJgvMUSt-QaDo9rgwCLcBGAsYHQ/s320/paintshell.png",
+    "third_power_details": [
+      "Signeture",
+      "FREE",
+      "N/A",
+      "N/A",
+      "Equip a cluster grenade. Fire to throw the grenade, which deals damage and creates sub-munitions, each exploding and dealing further damage."
+    ],
+    "fourth_power": "SHOWSTOPPER",
+    "fourth_power_img": "https://1.bp.blogspot.com/-NDRHDRRxAsY/X23b7e8rxCI/AAAAAAAAD1Q/Tm8BsmMj3UotxFJsHxalzOvooHbd0mK8gCLcBGAsYHQ/s320/showstopper.png",
+    "fourth_power_details": [
+      "Ultimate",
+      "7 Points",
+      "N/A",
+      "N/A",
+      "Equip a single-use Rocket Launcher and light its fuse. Fire to launch a rocket, which travels in a straight line and explodes on contact, dealing high damage to enemies caught in its blast radius."
+    ]
+  },
+
+  "SOVA": {
+    "name": "SOVA",
+    "img_url" : "https://1.bp.blogspot.com/-JsUE-YiPwsU/X22USRhTTJI/AAAAAAAADxU/X0VYCgMKaPc2sHhGy4-e3iGnZ4FbB2VygCLcBGAsYHQ/s16000/sova_big.png",
+    "origin": "Russia",
+    "role": "Initiator",
+    "first_power": "SHOCK BOLT",
+    "first_power_img": "https://1.bp.blogspot.com/-yWZr4roZ430/X23cZfrzfyI/AAAAAAAAD1w/ieC3ahr63hckjrUjQdMDuyPo7_O_rvs4wCLcBGAsYHQ/s0/shockdart.png",
+    "first_power_details": [
+      "Basic",
+      "100",
+      "N/A",
+      "N/A",
+      "Equip a bow with shock bolt. Fire to send the explosive bolt forward detonating upon collision and damaging players nearby. Hold Fire to extend the range of the projectile. Alternate Fire to add up to two bounces to this arrow."
+    ],
+    "second_power": "OWL DRONE",
+    "second_power_img": "https://1.bp.blogspot.com/-6tI_3kTxf2I/X23cZPbxRkI/AAAAAAAAD1o/oFcSPDiUJXE6RGyGlm3BbkmypkHOXtyCACLcBGAsYHQ/w200-h68/owldrone.png",
+    "second_power_details": [
+      "Basic",
+      "300",
+      "N/A",
+      "N/A",
+      "Equip an owl drone. Fire to deploy and take control of movement of the drone. While in control of the drone, Fire to shoot a marking dart. This dart will periodically reveal the location of its target."
+    ],
+    "third_power": "RECON BOLT",
+    "third_power_img": "https://1.bp.blogspot.com/-aXMv5-I_33Y/X23cYxduVQI/AAAAAAAAD1k/sLodDh5Ay8INt-XPbqAfcdyKGYJzeIWNgCLcBGAsYHQ/s0/recon.png",
+    "third_power_details": [
+      "Signeture",
+      "FREE",
+      "N/A",
+      "N/A",
+      "Equip a bow with recon bolt. Fire to send the bolt forward activating upon collision and revealing the location of nearby enemies caught in the line of sight of the bolt. Enemies can destroy this bolt. Hold Fire to extend the range of the projectile. Alternate Fire to add up to two bounces to this arrow."
+    ],
+    "fourth_power": "HUNTERR'S FURY",
+    "fourth_power_img": "https://1.bp.blogspot.com/-WzTg7AFEicU/X23cZK-YRgI/AAAAAAAAD1s/KEYx0LfgR4ENE2Wp2uOmFhvQfY2Wrl4vQCLcBGAsYHQ/s0/imthehunter.png",
+    "fourth_power_details": [
+      "Ultimate",
+      "7 Points",
+      "N/A",
+      "N/A",
+      "Equip a bow with three long-range, wall-piercing energy blasts. Fire to release an blast in a line in front of Sova dealing damage and revealing the location of enemies caught in the line."
+    ]
+  },
+
+  "KILLJOY": {
+    "name": "KILLJOY",
+    "img_url" : "https://1.bp.blogspot.com/-P-QoSVxkgNU/X22URVRweLI/AAAAAAAADxE/JPq4z2rCcxkWDbf4e9BUUqECcJ9wLtBtgCLcBGAsYHQ/s16000/killjoy_big.png",
+    "origin": "Germany",
+    "role": "Sentinel",
+    "first_power": "ALARMBOT",
+    "first_power_img": "https://1.bp.blogspot.com/-4y-gv8RQYfA/X23dhA81FZI/AAAAAAAAD2I/et7cKH7dh8INBj0hXi1zfQ18ite1u8dJACLcBGAsYHQ/s320/alarmbot.png",
+    "first_power_details": [
+      "Basic",
+      "200",
+      "N/A",
+      "N/A",
+      "EQUIP a covert Alarmbot. FIRE to deploy a bot that hunts down enemies that get in range. After reaching its target, the bot explodes, applying Vulnerable. HOLD EQUIP to recall a deployed bot."
+    ],
+    "second_power": "NANOSWARM",
+    "second_power_img": "https://1.bp.blogspot.com/-JT-hpGOztwg/X23dhejTfLI/AAAAAAAAD2M/Pce21rqi0hQehtR9t0YjeKfwT9sD5zKNQCLcBGAsYHQ/s320/swambot.png",
+    "second_power_details": [
+      "Basic",
+      "200",
+      "4.5 SEC,60dps",
+      "N/A",
+      "EQUIP a Nanoswarm grenade. FIRE to throw the grenade. Upon landing, the Nanoswarm goes covert. ACTIVATE the Nanoswarm to deploy a damaging swarm of nanobots.NOTE: the grenade is visible to enemies while in covert mode and can be broken too."
+    ],
+    "third_power": "TURRET",
+    "third_power_img": "https://1.bp.blogspot.com/-fIpna8p-gKA/X23dhu2bTBI/AAAAAAAAD2U/P-e6Bm1VzUMz46902n7oWbJAh7z-XZyBwCLcBGAsYHQ/s320/turret.png",
+    "third_power_details": [
+      "Signeture",
+      "FREE",
+      "N/A",
+      "125",
+      "EQUIP a Turret. FIRE to deploy a turret that fires at enemies in a 180 degree cone that deals 11 damage per burst. HOLD EQUIP to recall the deployed turret."
+    ],
+    "fourth_power": "LOCKDOWN",
+    "fourth_power_img": "https://1.bp.blogspot.com/-QC9HMP2vrpw/X23dhYNqnrI/AAAAAAAAD2Q/cRnXdGVTN6IP8t7P7sVHO7OCCA8MvtDEQCLcBGAsYHQ/s320/lockdown.png",
+    "fourth_power_details": [
+      "Ultimate",
+      "7 Points",
+      "15",
+      "150",
+      "EQUIP the Lockdown device. FIRE to deploy the device. After a long windup, the device Detains all enemies caught in the radius. The device can be destroyed by enemies. Enemies detained by the ultimate can neither shoot nor use any abilities for 8 seconds."
+    ]
+  },
+
+  "CYPHER": {
+    "name": "CYPHER",
+    "img_url" : "https://1.bp.blogspot.com/-dimg2AOD-NY/X22URYUBCEI/AAAAAAAADxA/cewGI7ZgWpEa60ZKz-sq9uUk0byzLNBTQCLcBGAsYHQ/s16000/cypher_big.png",
+    "origin": "Morocco",
+    "role": "Sentinel",
+    "first_power": "TRAPWIRE",
+    "first_power_img": "https://1.bp.blogspot.com/-IiRKNYmCUgg/X23eA14jq6I/AAAAAAAAD2s/R0HwDFwH54AvlgUHfM7eK8x5r_i5wiHLACLcBGAsYHQ/s0/stripwair.png",
+    "first_power_details": [
+      "Basic",
+      "200",
+      "N/A",
+      "N/A",
+      "Equip a trapwire. Fire to place a destructible and covert tripware at the targeted location, creating a line that spans between the placed location and the wall opposite. Enemy players who cross a tripwire will be tethered, revealed, and dazed after a short period if they do not destroy the device in time. This ability can be picked up and redeployed if not yet triggered.it can be destroyed by shooting it once with any gun"
+    ],
+    "second_power": "CYBER CAGE",
+    "second_power_img": "https://1.bp.blogspot.com/-cDjDa0yvhq4/X23eA1f8M6I/AAAAAAAAD2w/mpEJZXMoU3MQPJkt-WMGP8LBmUm5saTYQCLcBGAsYHQ/s0/cage.png",
+    "second_power_details": [
+      "Basic",
+      "100",
+      "7 sec",
+      "N/A",
+      "nstantly toss a cyber cage in front of Cypher. Activate from any distance to create a temporary zone that blocks vision."
+    ],
+    "third_power": "SPYCAM",
+    "third_power_img": "https://1.bp.blogspot.com/-BaGqVHpLLQU/X23eA1g0sZI/AAAAAAAAD2o/QCmf8ft-N9UdAS3h6Uv4r8wRk8Gw-097ACLcBGAsYHQ/s0/spycam.png",
+    "third_power_details": [
+      "Signeture",
+      "FREE",
+      "N/A",
+      "N/A",
+      "Equip a spycam. Fire to place the spycam at the targeted location. REUSE this ability to take control of the camera's view. While in control of the camera, Fire to shoot a tracking dart. The dart is removable and will periodically reveal the location of the enemy hit.it can be destroyed by shooting it once with any gun."
+    ],
+    "fourth_power": "THEFT",
+    "fourth_power_img": "https://1.bp.blogspot.com/-8f49kgN5_hg/X23eBfV6yFI/AAAAAAAAD20/Wh-tcBeMn2s2FXQIwXyPLVYT71KrgkVmACLcBGAsYHQ/s0/threft.png",
+    "fourth_power_details": [
+      "Ultimate",
+      "7 Points",
+      "N/A",
+      "N/A",
+      "Use on a fresh enemy corpse to throw Cypher's hat. After a brief delay, all enemy players' locations will be revealed once."
+    ]
+  },
+
+  "REYNA": {
+    "name": "REYNA",
+    "img_url" : "https://1.bp.blogspot.com/-7f-Tp8v9eKQ/X22USOuFEJI/AAAAAAAADxM/VFWlvFa_NQozqCqlOJgBwlM5JSFplU4EQCLcBGAsYHQ/s16000/reyna_big.png",
+    "origin": "Mexico",
+    "role": "Duelist",
+    "first_power": "LEER",
+    "first_power_img": "https://1.bp.blogspot.com/-E2e-Y2PQ5As/X23egNfr0iI/AAAAAAAAD3U/zijhTOnomRUSCTIjY7DLZMSb3ppux8aYgCLcBGAsYHQ/s320/leer.png",
+    "first_power_details": [
+      "Basic",
+      "200",
+      "2 sec",
+      "N/A",
+      "Equip an ethereal eye. Activate to cast the eye a short distance forward at a fixed range, passing through obstructions in the way. The eye will Nearsight all enemies who can see it. The eye will disappear either after two seconds or receiving any bullet damage."
+    ],
+    "second_power": "DEVOUR",
+    "second_power_img": "https://1.bp.blogspot.com/-nskG2z3usc8/X23efjwTrCI/AAAAAAAAD3Q/7gMP361vcZIvP29Y39kjrAq7mIJxHZv9gCLcBGAsYHQ/s320/devour.png",
+    "second_power_details": [
+      "Basic",
+      "100",
+      "3 sec",
+      "N/A",
+      "Instantly consume a nearby Soul Orb, disabling Reyna's ability to fire for 1 second and creating a tether between Reyna and the Soul Orb whilst rapidly healing for 100 health over 3 seconds. The tether will break if it is caught between any obstacle for more than a second, ending the healing prematurely. This ability can Overheal though health exceeding 100 but cannot exceed 150 health (including shields). The Overheal will decay after 25 seconds over 1 second, but can be refreshed whenever devour is recast. Excess health will be consumed before excess shield.If Empress is active, this skill will automatically cast, not consume the Soul Orb, and not create a tether. "
+    ],
+    "third_power": "DISMISS",
+    "third_power_img": "https://1.bp.blogspot.com/-droLfeHzIPQ/X23effv8jWI/AAAAAAAAD3I/PlG1_SltFF0KR-olAw-oyHJNa7ekC8VKgCLcBGAsYHQ/s320/dismiss.png",
+    "third_power_details": [
+      "Signeture",
+      "FREE",
+      "2",
+      "N/A",
+      "Instantly consume a nearby Soul Orb, becoming intangible for 2 seconds and gaining a burst of movement speed for the first second of the duration. Reyna can change what weapon she will equip whilst Dismiss is active, always equipping the last weapon selected during Dismiss. If Empress is active, Reyna also become invisible. "
+    ],
+    "fourth_power": "EMPRESS",
+    "fourth_power_img": "https://1.bp.blogspot.com/-TpUwE1tnWOc/X23efqXP2eI/AAAAAAAAD3M/k_euJQI66NU4k0Q4vc8sLRGUS3O8sRV-wCLcBGAsYHQ/s320/empress.png",
+    "fourth_power_details": [
+      "Ultimate",
+      "6 Points",
+      "30 sec",
+      "N/A",
+      "Enter a frenzy for 30 seconds, increasing firing, equip and reload speeds by 20%. Grants infinite charges of Soul Harvest abilities. Scoring a kill fully refreshes the duration."
+    ]
+  }
+}

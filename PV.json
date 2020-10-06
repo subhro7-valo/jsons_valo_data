@@ -1,0 +1,41 @@
+{
+  "phantom": {
+    "name": "PHANTOM",
+    "img_url": "https://1.bp.blogspot.com/-qoRsEDZsKbE/X3BBtgNVsaI/AAAAAAAAD4w/hWxDEEe8hAA9bXhMy0w8Kwk2orjNKCNJwCLcBGAsYHQ/s16000/Phantom.webp",
+    "type": "Assult Rifle",
+    "creeds": "2900",
+    "magazine": "30",
+    "wall_penetration": "Medium",
+    "primary_fire_mode": "Auto",
+    "primary_fire_rate": "11 Rounds/sec",
+    "alternative_fire_zoom": "1.25x",
+    "alternative_fire_rate": "9.9 Rounds/sec",
+    "range": ["0-50", "15-30", "30-50"],
+    "damage": [
+
+        "156", "39", "33",
+        "140", "35", "29",
+        "124", "31", "26"
+
+    ]
+  },
+  "vandal": {
+    "name": "VANDAL",
+    "img_url": "https://1.bp.blogspot.com/-LQteym49Yps/X3BBt5g8pGI/AAAAAAAAD40/_6uJdCHMTm8oVYw4sMK2ycEpZt4Kb1uJACLcBGAsYHQ/s16000/Vandal.webp",
+    "type": "Assult Rifle",
+    "creeds": "2900",
+    "magazine": "25",
+    "wall_penetration": "Medium",
+    "primary_fire_mode": "Auto",
+    "primary_fire_rate": "9.75 Rounds/sec",
+    "alternative_fire_zoom": "1.25x",
+    "alternative_fire_rate": "8.7Rounds/sec",
+    "range": ["0-50", "15-30", "30-50"],
+    "damage": [
+      "165", "40", "35",
+        "140", "36", "30",
+        "124", "30", "26"
+
+    ]
+  }
+}

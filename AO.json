@@ -1,0 +1,37 @@
+{
+  "ares": {
+    "name": "ARES",
+    "img_url": "https://1.bp.blogspot.com/-HHAGiX6AIGY/X3A9DlVGjRI/AAAAAAAAD4k/vQAvNRVP1DAJWyoMhur98FdhzfqyshyZACLcBGAsYHQ/s16000/Ares.webp",
+    "type": "Heavy",
+    "creeds": "1600",
+    "magazine": "50",
+    "wall_penetration": "High",
+    "primary_fire_mode": "Full-Automatic",
+    "primary_fire_rate": "10-13 Rounds/sec",
+    "alternative_fire_zoom": "1.25x",
+    "alternative_fire_rate": "10-13 Rounds/sec",
+    "range": ["0-30", "30-50"],
+    "damage": [
+      "72", "30", "25",
+      "67", "28", "23"
+    ]
+  },
+  "odin": {
+    "name": "ODIN",
+    "img_url": "https://1.bp.blogspot.com/-L2F1aOecgY0/X3A9DnwPhbI/AAAAAAAAD4g/RzN5Bmyf00UAynCQ1PJUGwYUAevAEiuzQCLcBGAsYHQ/s16000/Odin.webp",
+    "type": "Heavy",
+    "creeds": "3200",
+    "magazine": "100",
+    "wall_penetration": "High",
+    "primary_fire_mode": "Full-Automatic",
+    "primary_fire_rate": "12-15.6 Rounds/sec",
+    "alternative_fire_zoom": "1.25x",
+    "alternative_fire_rate": "15.6 Rounds/sec",
+    "range": ["0-30", "30-50"],
+    "damage": [
+      "95", "38", "32",
+      "77", "31", "26"
+
+    ]
+  }
+}
